@@ -1,0 +1,20 @@
+^(?!Ukugat).*?([\d\s.,]*\d)\s*([A-Z]{3})\s+\(\*+(\d{4})\)\s+(.*)\s+.*(?:alan|ashti).*?(\d[\d\s.,]*\d)\s*.*\s+(\d{2}[-./]\d{2}[-./]\d{2,4}).*
+
+-----COLUMNS-----
+outcome;instrument;syncid;payee;av_balance;date#dMy
+
+-----EXAMPLE-----
+44.72GEL
+(*9655)
+GOODWILL
+Nashti: 8587.12GEL
+ 
+14/06/26 00:40
+
+-----EXAMPLE-----
+145.94GEL
+(*9827)
+Wolt
+Nashti: 684.26GEL
+ 
+14/06/26 17:00
